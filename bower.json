@@ -1,0 +1,8 @@
+  "name": "atomicly",
+  "version": "0.1.0",
+  "author": "David Helgeson",
+  "repository": "https://github.com/dhcar/atomicly",
+  "license": "MIT",
+  "dependencies": {
+    "q": "q#1.0.1"
+  },

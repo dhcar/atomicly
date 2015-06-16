@@ -1,0 +1,27 @@
+{
+  "name": "atomicly",
+  "version": "0.1.0",
+  "author": "David Helgeson",
+  "license": "MIT",
+  "dependencies": {
+    "q": "q@~1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dhcar/atomicly.git"
+  },
+  "main": "atomicly.js",
+  "keywords": [
+    "firebase",
+    "promise",
+    "promises",
+    "q",
+    "callback",
+    "atomic",
+    "atomically",
+    "atomicly",
+    "deferred",
+    "future",
+    "async"
+  ]
+}
